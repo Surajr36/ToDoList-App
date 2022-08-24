@@ -1,3 +1,3 @@
 # To-do
 
-A simple todo list app built in HTML, CSS and JavaScript for Personal Learning
+A simple todo list app built in HTML, CSS and JavaScript for Personal Learningg
